@@ -27,7 +27,7 @@
 ## Installation & Reproduction
 
 <p>
-  <img src="media/chasing_fireflies_fritzing1" alt="Envelope" width="300">
+  <img src="media/chasing_fireflies_fritzing1.png" alt="fritzing diagram" width="300">
 </p>
 
 ### Hardware
