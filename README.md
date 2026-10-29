@@ -1,7 +1,7 @@
 # chasing-fireflies
 
 ## About
-**Chasing Fireflies** is an interactive Processing game where players catch glowing fireflies using a joystick, button, and potentiometer with custom animations, progressive difficulty, and a persistent leaderboard. An ESP32 TTGO T-Display collects sensor data from these components and sends it to a laptop over a serial connection.
+**Chasing Fireflies** is an interactive Processing game where players catch glowing fireflies using a joystick, button, and potentiometer with custom animations, progressive difficulty, and a persistent leaderboard. An ESP32 TTGO T-Display collects sensor data from the components and sends it to a laptop over a serial connection.
 
 **[Blog Post](https://victoria3452.github.io/chasing-fireflies.html)**
 
@@ -48,7 +48,12 @@
 - Processing IDE
 
 ### Running the Project
-1) Wire the hardware Connect the joystick’s X, Y, and switch outputs to ESP32 GPIO pins 39, 32, and 33, respectively. Connect the potentiometer to GPIO 37 and the button to GPIO 2.
-2) Upload the controller sketch to ESP32 in Arduino IDE 
-3) Run the game Open the Processing sketch and select the serial port connected to the ESP32. Run the program to start the game. The controller communicates with the game over serial at 9600 baud.
-4) Play Move the joystick to control the jar, turn the potentiometer to adjust its size, and press the button to catch fireflies.
+### Running the Project
+
+1) **Wire the hardware.** Connect the joystick’s X, Y, and switch outputs to ESP32 GPIO pins 39, 32, and 33, respectively. Connect the potentiometer to GPIO 37 and the button to GPIO 2.
+
+2) **Upload the controller sketch.** Open the ESP32 sketch in the Arduino IDE and upload it to your ESP32.
+
+3) **Run the game.** Open the Processing sketch, select the serial port connected to the ESP32, and run the program. The ESP32 sends sensor data to the game over serial at 9600 baud.
+
+4) **Play!** Move the joystick to control the jar, turn the potentiometer to adjust its size and movement speed, and press the button to catch fireflies.
