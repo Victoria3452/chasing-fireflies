@@ -48,12 +48,7 @@
 - Processing IDE
 
 ### Running the Project
-### Running the Project
-
 1) **Wire the hardware.** Connect the joystick’s X, Y, and switch outputs to ESP32 GPIO pins 39, 32, and 33, respectively. Connect the potentiometer to GPIO 37 and the button to GPIO 2.
-
-2) **Upload the controller sketch.** Open the ESP32 sketch in the Arduino IDE and upload it to your ESP32.
-
+2) **Upload the controller sketch to ESP32 in Arduino IDE.** 
 3) **Run the game.** Open the Processing sketch, select the serial port connected to the ESP32, and run the program. The ESP32 sends sensor data to the game over serial at 9600 baud.
-
-4) **Play!** Move the joystick to control the jar, turn the potentiometer to adjust its size and movement speed, and press the button to catch fireflies.
+4) **Play!** Move the joystick to control the jar, turn the potentiometer to adjust its size and speed, and press the button to catch fireflies.
