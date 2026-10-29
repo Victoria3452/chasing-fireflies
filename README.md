@@ -26,7 +26,9 @@
 
 ## Installation & Reproduction
 
-![chasing fireflies fritzing diagram](media/chasing_fireflies_fritzing.png)
+<p>
+  <img src="media/chasing_fireflies_fritzing1" alt="Envelope" width="300">
+</p>
 
 ### Hardware
 - ESP32 TTGO T-Display
