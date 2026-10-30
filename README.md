@@ -10,7 +10,7 @@
 ## Demo
 <table>
   <tr>
-    <td><img src="media/withjoystick.gif" alt="Chasing Fireflies with joystick" width="400"></td>
+    <td><img src="media/gameplay_with_controls.gif" alt="Chasing Fireflies with joystick" width="400"></td>
     <td><img src="media/homescreen.gif" alt="Game home screen" width="400"></td>
   </tr>
   <tr>
@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-[Video of full game](tbd)
+[Video of full game](https://youtube.com/shorts/4JUIxUYemsc?is=OvRwwfRdvMcsbrXk)
 
 ## Design Goals
 - Create glowing, animated fireflies using procedural graphics
