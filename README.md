@@ -8,11 +8,12 @@
 ---
 
 ## Demo
-![Chasing Fireflies Demo](media/demo.gif)
+![Chasing Fireflies Demo](media/withjoystick.gif)
+![Chasing Fireflies Demo](media/homescreen.gif)
+![Chasing Fireflies Demo](media/gameplay.gif)
+![Chasing Fireflies Demo](media/release_animation.gif)
 
-
-
-[Video of full experience](tbd)
+[Video of full game](tbd)
 
 ## Design Goals
 - Create glowing, animated fireflies using procedural graphics
