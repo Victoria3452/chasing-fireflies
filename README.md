@@ -11,14 +11,11 @@
 <table>
   <tr>
     <td>
-      <iframe
-        src="https://www.youtube.com/embed/4JUIxUYemsc?autoplay=1&mute=1&playsinline=1"
-        title="Chasing Fireflies Demo"
-        width="400"
-        height="711"
-        allow="autoplay; encrypted-media"
-        allowfullscreen>
-      </iframe>
+      <a href="https://www.youtube.com/shorts/4JUIxUYemsc">
+        <img src="https://img.youtube.com/vi/4JUIxUYemsc/hqdefault.jpg"
+             alt="Chasing Fireflies with joystick"
+             width="400">
+      </a>
     </td>
     <td><img src="media/homescreen.gif" alt="Game home screen" width="400"></td>
   </tr>
