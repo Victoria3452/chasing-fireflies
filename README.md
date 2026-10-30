@@ -17,7 +17,7 @@
              width="400">
       </a>
     </td> -->
-    <td><img src="media/gameplay_joystick.gif" alt="Game home screen" width="400"></td>
+    <td><img src="media/gameplay_joystick.gif" alt="Game home screen" width="200"></td>
     <td><img src="media/homescreen.gif" alt="Game home screen" width="400"></td>
   </tr>
   <tr>
