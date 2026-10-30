@@ -10,7 +10,13 @@
 ## Demo
 <table>
   <tr>
-    <td><img src="media/gameplay_with_controls.gif" alt="Chasing Fireflies with joystick" width="400"></td>
+    <td>
+      <a href="https://www.youtube.com/shorts/4JUIxUYemsc">
+        <img src="https://img.youtube.com/vi/4JUIxUYemsc/hqdefault.jpg"
+             alt="Chasing Fireflies with joystick"
+             width="400">
+      </a>
+    </td>
     <td><img src="media/homescreen.gif" alt="Game home screen" width="400"></td>
   </tr>
   <tr>
