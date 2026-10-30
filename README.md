@@ -10,19 +10,28 @@
 ## Demo
 <table>
   <tr>
-    <!-- <td>
-      <a href="https://www.youtube.com/shorts/4JUIxUYemsc">
-        <img src="https://img.youtube.com/vi/4JUIxUYemsc/hqdefault.jpg"
-             alt="Chasing Fireflies with joystick"
-             width="400">
-      </a>
-    </td> -->
-    <td><img src="media/gameplay_joystick.gif" alt="Game home screen" width="200"></td>
-    <td><img src="media/homescreen.gif" alt="Game home screen" width="400"></td>
+    <td align="center">
+      <img src="media/gameplay_joystick.gif"
+           alt="Joystick-controlled gameplay"
+           width="200">
+    </td>
+    <td align="center">
+      <img src="media/homescreen.gif"
+           alt="Game home screen"
+           width="400">
+    </td>
   </tr>
   <tr>
-    <td><img src="media/gameplay.gif" alt="Chasing Fireflies gameplay" width="400"></td>
-    <td><img src="media/release_and_score.gif" alt="Firefly release animation" width="400"></td>
+    <td align="center">
+      <img src="media/gameplay.gif"
+           alt="Chasing Fireflies gameplay"
+           width="400">
+    </td>
+    <td align="center">
+      <img src="media/release_and_score.gif"
+           alt="Firefly release animation"
+           width="400">
+    </td>
   </tr>
 </table>
 
