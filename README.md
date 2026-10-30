@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td><img src="media/gameplay.gif" alt="Chasing Fireflies gameplay" width="400"></td>
-    <td><img src="media/release_animation.gif" alt="Firefly release animation" width="400"></td>
+    <td><img src="media/release_and_score.gif" alt="Firefly release animation" width="400"></td>
   </tr>
 </table>
 
